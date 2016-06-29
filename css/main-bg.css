@@ -1,0 +1,80 @@
+/* MAIN-BG.CSS contains Background Image paths & definition rules powered by CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to replace any BG image is to add image URL in url('....') area of related classname.
+If you need assistance, please go to http://www.designova.net/downloads.html and request a downloadable
+ZIP pack contains original live preview version with all preview images linked properly, so you can easily
+replace preview images directly;
+*/
+
+
+.intro-03-slide-01{
+    background-image: url('../images/featured/01.jpg');
+}
+.intro-03-slide-02{
+    background-image: url('../images/featured/02.jpg');
+}
+.intro-03-slide-03{
+    background-image: url('../images/featured/03.jpg');
+}
+.intro-03-slide-04{
+    background-image: url('../images/featured/04.jpg');
+}
+.intro-03-slide-05{
+    background-image: url('../images/featured/05.jpg');
+}
+.about-01-bg{
+    background-image: url('/images/about/about-hero.jpg');
+}
+.about-02-bg{
+    background-image: url('/images/about/02.jpg');
+}
+.about-03-bg{
+    background-image: url('/images/about/06.jpg');
+}
+.agency-tile-02{
+    background-image: url('/images/about/01.jpg');
+}
+.agency-tile-03{
+    background-image: url('/images/about/02.jpg');
+}
+.agency-tile-07{
+    background-image: url('/images/about/03.jpg');
+}
+.agency-tile-08{
+    background-image: url('/images/about/04.jpg');
+}
+.features-item-01-bg{
+    background-image: url('/images/about/01.jpg');
+}
+.features-item-02-bg{
+    background-image: url('/images/about/02.jpg');
+}
+.features-item-03-bg{
+    background-image: url('/images/about/03.jpg');
+}
+.features-item-04-bg{
+    background-image: url('/images/about/04.jpg');
+}
+.call-to-action-01{
+  background: rgb(255,66,125); /* Old browsers */
+  background: -moz-linear-gradient(45deg,  rgba(255,66,125,1) 0%, rgba(255,118,96,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(255,66,125,1)), color-stop(100%,rgba(255,118,96,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(45deg,  rgba(255,66,125,1) 0%,rgba(255,118,96,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(45deg,  rgba(255,66,125,1) 0%,rgba(255,118,96,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(45deg,  rgba(255,66,125,1) 0%,rgba(255,118,96,1) 100%); /* IE10+ */
+  background: linear-gradient(45deg,  rgba(255,66,125,1) 0%,rgba(255,118,96,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff427d', endColorstr='#ff7660',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.call-to-action-02{
+    background-image: url('/images/about/08.jpg');
+}
+.news-bg{
+    background-image: url('/images/about/10.jpg');
+}
+.pricing-bg{
+    background-image: url('/images/about/09.jpg');
+}
+.contact-bg{
+    background-image: url('/images/about/04.jpg');
+}

@@ -1,7 +1,7 @@
 {
-  "name": "3point0",
-  "version": "1.0.0",
-  "description": "dusk",
+  "name": "DUSK Nighttiming Network Agency",
+  "version": "1.5.0",
+  "description": "Web design and development network",
   "main": "index.html",
   "dependencies": {},
   "devDependencies": {
@@ -17,10 +17,12 @@
     "url": "git+https://github.com/eliwilliamson/jekyll-base.git"
   },
   "keywords": [
-    "ha",
-    "ha",
-    "ha",
-    "hello"
+    "web design",
+    "web development",
+    "web strategy",
+    "seo",
+    "design",
+    "development"
   ],
   "author": "Eli Williamson",
   "license": "ISC",

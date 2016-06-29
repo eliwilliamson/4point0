@@ -1,20 +1,27 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html class="no-js" lang="en">
 
-  {% include head.html %}
+  {% include shared/head.html %}
 
-  <body>
+  <body class="{{ page.body_class }}">
 
-    {% include header.html %}
+    {% include shared/header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <!-- MASTER CONTENT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <section class="mastwrap">
+    {{ content }}
+    </section>
+    <!-- end : mastwrap -->
 
-    {% include footer.html %}
+    {% include shared/footer.html %}
+
+    {% include shared/scripts.html %}
+    {% include shared/google-analytics.html %}
+
+    {% if page.body_class == "contact" %}
+      {% include shared/contact-scripts.html %}
+    {% endif %}
 
   </body>
-
 </html>
