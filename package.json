@@ -1,7 +1,7 @@
 {
-  "name": "DUSK Nighttiming Network Agency",
-  "version": "1.5.0",
-  "description": "Web design and development network",
+  "name": "dusk",
+  "version": "1.0.0",
+  "description": "dusk",
   "main": "index.html",
   "dependencies": {},
   "devDependencies": {
