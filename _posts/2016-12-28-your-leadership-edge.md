@@ -2,7 +2,7 @@
 layout: project
 client: "Your Leadership Edge"
 title: "Kansas Leadership Center Your Leadership Edge"
-sequence: "01"
+sequence: "10"
 featuredImageFile: "yle-featured.png"
 quote: "YLE is a subscription portal that anyone can access from anywhere around the world. The portal gives you access to the Kansas Leadership Center resources and teachings, both online and in-person. Your Leadership Edge operates as a subsidiary of the Kansas Leadership Center with all profit directed back to the mission work of the organization."
 ---
