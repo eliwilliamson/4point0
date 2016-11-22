@@ -119,6 +119,13 @@ strong {
     margin: -75px 0 0 -75px;
 }
 
+.agency-tile.text-center {
+  filter: gray;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(1);
+  -webkit-filter: grayscale(100%);
+}
+
 // Breakpoints
 
 $small:   480px;
