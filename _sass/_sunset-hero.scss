@@ -178,7 +178,6 @@
   .reflection-one,
   .reflection-two {
     transition: all;
-    animation-delay: 2s;
     animation-duration: 4s;
     -webkit-transition-timing-function: cubic-bezier(0.680, 0, 0.265, 1); /* older webkit */
     -webkit-transition-timing-function: cubic-bezier(0.680, -0.550, 0.265, 1.550);
