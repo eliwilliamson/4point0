@@ -38,3 +38,5 @@ show_drafts: false
 # Split posts over multiple subdirectories called “page2”, “page3”, … “pageN”
 paginate: 10
 paginate_path: 'page:num'
+
+include: [_redirects]
